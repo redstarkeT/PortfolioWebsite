@@ -306,6 +306,20 @@ nav ul li a:hover::after{
 .wit-col-2{
     flex-basis: 50%;
 }
+.unilever-col-1{
+    flex-basis: 45%;
+}
+.unilever-col-1 img{
+    width:100%;
+    border-radius: 15px;
+}
+.unilever-col-1 p{
+    text-align: center;
+    color: #a40000;
+}
+.unilever-col-2{
+    flex-basis: 50%;
+}
 /*-----------------studios--------------*/
 #studios{
     padding-top: 80px;
