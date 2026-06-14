@@ -278,6 +278,34 @@ nav ul li a:hover::after{
 .coned-col-2{
     flex-basis: 50%;
 }
+.blade-col-1{
+    flex-basis: 45%;
+}
+.blade-col-1 img{
+    width:100%;
+    border-radius: 15px;
+}
+.blade-col-1 p{
+    text-align: center;
+    color: #a40000;
+}
+.blade-col-2{
+    flex-basis: 50%;
+}
+.wit-col-1{
+    flex-basis: 45%;
+}
+.wit-col-1 img{
+    width:100%;
+    border-radius: 15px;
+}
+.wit-col-1 p{
+    text-align: center;
+    color: #a40000;
+}
+.wit-col-2{
+    flex-basis: 50%;
+}
 /*-----------------studios--------------*/
 #studios{
     padding-top: 80px;
