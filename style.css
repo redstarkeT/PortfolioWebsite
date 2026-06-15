@@ -320,6 +320,20 @@ nav ul li a:hover::after{
 .unilever-col-2{
     flex-basis: 50%;
 }
+.medtronic-col-1{
+    flex-basis: 45%;
+}
+.medtronic-col-1 img{
+    width:100%;
+    border-radius: 15px;
+}
+.medtronic-col-1 p{
+    text-align: center;
+    color: #a40000;
+}
+.medtronic-col-2{
+    flex-basis: 50%;
+}
 /*-----------------studios--------------*/
 #studios{
     padding-top: 80px;
